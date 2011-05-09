@@ -1,4 +1,5 @@
 core = 7.x
+projects[drupal][type] = core
 api = 2
 projects[drupal][version] = 7
 projects[d7][type] = "profile"

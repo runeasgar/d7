@@ -1,7 +1,3 @@
-core = 7.x
-
-
-
 ; API version
 ; ------------
 ; Every makefile needs to declare its Drush Make API version. This version of
