@@ -1,8 +1,8 @@
-; $Id: standard.info,v 1.2 2010/10/25 15:48:41 webchick Exp $
 name = d7
 description = Custom install profile for Joshua Taylor.
-version = VERSION
+version = 1.0-alpha
 core = 7.x
+
 dependencies[] = block
 dependencies[] = color
 dependencies[] = comment
@@ -22,6 +22,7 @@ dependencies[] = shortcut
 dependencies[] = field_ui
 dependencies[] = file
 dependencies[] = rdf
+
 ; MY SET OF MODULES
 dependencies[] = admin
 dependencies[] = admin_menu
@@ -54,7 +55,9 @@ dependencies[] = user_reference
 dependencies[] = computed_field
 dependencies[] = captcha
 dependencies[] = image_captcha
+
 ; CORE MODULES I DON'T WANT
 ;dependencies[] = toolbar
 ;dependencies[] = overlay
+
 files[] = d7.profile

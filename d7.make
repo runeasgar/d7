@@ -1,5 +1,3 @@
-core = 7.x
-projects[drupal][version] = 7
 api = 2
 
 projects[admin][subdir] = contrib
