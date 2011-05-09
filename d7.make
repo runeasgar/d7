@@ -1,5 +1,9 @@
 api = 2
 
+core = 7.x
+projects[drupal][type] = core
+projects[drupal][version] = 7
+
 projects[admin][subdir] = contrib
 projects[admin_menu][subdir] = contrib
 projects[ctools][subdir] = contrib
