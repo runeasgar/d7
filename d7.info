@@ -55,6 +55,10 @@ dependencies[] = user_reference
 dependencies[] = computed_field
 dependencies[] = captcha
 dependencies[] = image_captcha
+dependencies[] = addtoany
+dependencies[] = pathologic
+dependencies[] = linkit
+dependencies[] = linkit_node
 
 ; CORE MODULES I DON'T WANT
 ;dependencies[] = toolbar

@@ -41,16 +41,26 @@ projects[entity][subdir] = contrib
 projects[colorbox][subdir] = contrib
 projects[field_group][subdir] = contrib
 projects[references][subdir] = contrib
+projects[pathologic][subdir] = contrib
+projects[linkit][subdir] = contrib
 
 ; NO RECOMMENDED RELEASE
-projects[computed_field] = 1.x-dev
-projects[captcha] = 1.0-alpha3
-projects[flag] = 2.0-beta5
-projects[invite] = 2.x-dev
-projects[views_slideshow] = 3.0-alpha1
-projects[strongarm] = 2.0-beta2
-projects[fivestar] = 2.x-dev
-projects[nice_menus] = 2.0-beta3
+projects[computed_field][version] = 1.x-dev
+projects[computed_field][subdir] = contrib
+projects[captcha][version] = 1.0-alpha3
+projects[captcha][subdir] = contrib
+projects[flag][version] = 2.0-beta5
+projects[flag][subdir] = contrib
+projects[invite][version] = 2.x-dev
+projects[invite][subdir] = contrib
+projects[views_slideshow][version] = 3.0-alpha1
+projects[views_slideshow][subdir] = contrib
+projects[strongarm][version] = 2.0-beta2
+projects[strongarm][subdir] = contrib
+projects[fivestar][version] = 2.x-dev
+projects[fivestar][subdir] = contrib
+projects[nice_menus][version] = 2.0-beta3
+projects[nice_menus][subdir] = contrib
 
 libraries[jquery][download][type] = "file"
 libraries[jquery][download][url] = "https://ajax.googleapis.com/ajax/libs/jquery/1.5.2/jquery.min.js"
