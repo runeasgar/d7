@@ -43,6 +43,7 @@ projects[field_group][subdir] = contrib
 projects[references][subdir] = contrib
 projects[pathologic][subdir] = contrib
 projects[linkit][subdir] = contrib
+projects[imce_mkdir][subdir] = contrib
 
 ; NO RECOMMENDED RELEASE
 projects[computed_field][version] = 1.x-dev

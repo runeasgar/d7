@@ -59,6 +59,7 @@ dependencies[] = addtoany
 dependencies[] = pathologic
 dependencies[] = linkit
 dependencies[] = linkit_node
+dependencies[] = imce_mkdir
 
 ; CORE MODULES I DON'T WANT
 ;dependencies[] = toolbar
