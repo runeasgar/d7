@@ -60,6 +60,7 @@ dependencies[] = pathologic
 dependencies[] = linkit
 dependencies[] = linkit_node
 dependencies[] = imce_mkdir
+dependencies[] = menu_block
 
 ; CORE MODULES I DON'T WANT
 ;dependencies[] = toolbar
