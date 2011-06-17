@@ -80,6 +80,9 @@ libraries[ckeditor][download][url] = "http://download.cksource.com/CKEditor/CKEd
 libraries[colorbox][type] = "libraries"
 libraries[colorbox][download][type] = "file"
 libraries[colorbox][download][url] = "http://colorpowered.com/colorbox/latest"
+libraries[jquery.cycle][type] = "libraries"
+libraries[jquery.cycle][download][type] = "file"
+libraries[jquery.cycle][download][url] = "http://malsup.com/jquery/cycle/release/jquery.cycle.zip?v2.99"
 
 ; MY INSTALL PROFILE
 projects[d7][type] = profile
