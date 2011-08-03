@@ -35,6 +35,7 @@ projects[views][subdir] = contrib
 projects[votingapi][subdir] = contrib
 projects[webform][subdir] = contrib
 projects[demo][subdir] = contrib
+projects[ds][version] = 1.3
 projects[ds][subdir] = contrib
 projects[google_fonts][subdir] = contrib
 projects[entity][subdir] = contrib
