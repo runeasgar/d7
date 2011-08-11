@@ -66,6 +66,9 @@ dependencies[] = date_popup
 dependencies[] = date_api
 dependencies[] = date_views
 dependencies[] = devel_generate
+dependencies[] = flag
+dependencies[] = views_slideshow
+dependencies[] = views_slideshow_cycle
 
 ; CORE MODULES I DON'T WANT
 ;dependencies[] = toolbar
