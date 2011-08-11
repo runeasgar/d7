@@ -61,6 +61,12 @@ dependencies[] = linkit
 dependencies[] = linkit_node
 dependencies[] = imce_mkdir
 dependencies[] = menu_block
+dependencies[] = date
+dependencies[] = date_popup
+dependencies[] = date_api
+dependencies[] = date_views
+dependencies[] = devel_generate
+dependencies[] = job_scheduler
 
 ; CORE MODULES I DON'T WANT
 ;dependencies[] = toolbar
