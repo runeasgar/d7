@@ -75,6 +75,8 @@ projects[nice_menus][version] = 2.0-beta3
 projects[nice_menus][subdir] = contrib
 projects[feeds][version] = 2.0-alpha4
 projects[feeds][subdir] = contrib
+projects[job_scheduler][version] = 2.0-alpha2
+projects[job_scheduler][subdir] = contrib
 
 libraries[jquery][download][type] = "file"
 libraries[jquery][download][url] = "https://ajax.googleapis.com/ajax/libs/jquery/1.5.2/jquery.min.js"
