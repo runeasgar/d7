@@ -48,6 +48,7 @@ projects[imce_mkdir][subdir] = contrib
 projects[libraries][subdir] = contrib
 projects[profile2][subdir] = contrib
 projects[views_bulk_operations][subdir] = contrib
+projects[auto_nodetitle][subdir] = contrib
 
 ; E-COMMERCE
 projects[addressfield][subdir] = contrib
