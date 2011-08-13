@@ -69,6 +69,10 @@ dependencies[] = devel_generate
 dependencies[] = flag
 dependencies[] = views_slideshow
 dependencies[] = views_slideshow_cycle
+dependencies[] = apc
+dependencies[] = memcache
+dependencies[] = memcache_admin
+dependencies[] = varnish
 
 ; CORE MODULES I DON'T WANT
 ;dependencies[] = toolbar
