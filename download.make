@@ -35,7 +35,7 @@ projects[views][subdir] = contrib
 projects[votingapi][subdir] = contrib
 projects[webform][subdir] = contrib
 projects[demo][subdir] = contrib
-projects[ds][version] = 1.3
+;projects[ds][version] = 1.3
 projects[ds][subdir] = contrib
 projects[google_fonts][subdir] = contrib
 projects[entity][subdir] = contrib
@@ -49,6 +49,12 @@ projects[libraries][subdir] = contrib
 projects[profile2][subdir] = contrib
 projects[views_bulk_operations][subdir] = contrib
 projects[auto_nodetitle][subdir] = contrib
+
+; CACHING
+projects[apc][subdir] = contrib
+projects[memcache][subdir] = contrib
+projects[varnish][version] = 1.x-dev
+projects[varnish][subdir] = contrib
 
 ; E-COMMERCE
 projects[addressfield][subdir] = contrib
