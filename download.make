@@ -58,7 +58,6 @@ projects[varnish][subdir] = contrib
 
 ; E-COMMERCE
 projects[addressfield][subdir] = contrib
-projects[commerce][version] = 1.x-dev
 projects[commerce][subdir] = contrib
 projects[commerce_paypal][version] = 1.x-dev
 projects[commerce_paypal][subdir] = contrib
