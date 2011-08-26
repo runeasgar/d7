@@ -49,6 +49,7 @@ projects[libraries][subdir] = contrib
 projects[profile2][subdir] = contrib
 projects[views_bulk_operations][subdir] = contrib
 projects[auto_nodetitle][subdir] = contrib
+projects[shadowbox][subdir] = contrib
 
 ; CACHING
 projects[apc][subdir] = contrib
