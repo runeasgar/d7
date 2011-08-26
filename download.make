@@ -50,7 +50,6 @@ projects[profile2][subdir] = contrib
 projects[views_bulk_operations][subdir] = contrib
 projects[auto_nodetitle][subdir] = contrib
 projects[shadowbox][subdir] = contrib
-projects[formblock][subdir] = contrib
 
 ; CACHING
 projects[apc][subdir] = contrib
@@ -85,6 +84,8 @@ projects[feeds][version] = 2.0-alpha4
 projects[feeds][subdir] = contrib
 projects[job_scheduler][version] = 2.0-alpha2
 projects[job_scheduler][subdir] = contrib
+projects[formblock][version] = 1.x-dev
+projects[formblock][subdir] = contrib
 
 libraries[jquery][download][type] = "file"
 libraries[jquery][download][url] = "https://ajax.googleapis.com/ajax/libs/jquery/1.5.2/jquery.min.js"
