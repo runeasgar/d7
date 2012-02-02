@@ -54,6 +54,8 @@ projects[nodequeue][subdir] = contrib
 projects[fontyourface][subdir] = contrib
 projects[flag][subdir] = contrib
 projects[views_slideshow][subdir] = contrib
+projects[module_filter][subdir] = contrib
+projects[globalredirect][subdir] = contrib
 
 ; CACHING
 projects[apc][subdir] = contrib
