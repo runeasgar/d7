@@ -52,6 +52,8 @@ projects[auto_nodetitle][subdir] = contrib
 projects[shadowbox][subdir] = contrib
 projects[nodequeue][subdir] = contrib
 projects[fontyourface][subdir] = contrib
+projects[flag][subdir] = contrib
+projects[views_slideshow][subdir] = contrib
 
 ; CACHING
 projects[apc][subdir] = contrib
@@ -68,14 +70,10 @@ projects[commerce_paypal][subdir] = contrib
 ; NO RECOMMENDED RELEASE
 projects[computed_field][version] = 1.x-dev
 projects[computed_field][subdir] = contrib
-projects[captcha][version] = 1.0-alpha3
+projects[captcha][version] = 1.0-beta2
 projects[captcha][subdir] = contrib
-projects[flag][version] = 2.0-beta5
-projects[flag][subdir] = contrib
 projects[invite][version] = 2.x-dev
 projects[invite][subdir] = contrib
-projects[views_slideshow][version] = 3.0-alpha1
-projects[views_slideshow][subdir] = contrib
 projects[strongarm][version] = 2.0-beta2
 projects[strongarm][subdir] = contrib
 projects[fivestar][version] = 2.x-dev
@@ -98,7 +96,7 @@ libraries[ckeditor][download][type] = "file"
 libraries[ckeditor][download][url] = "http://download.cksource.com/CKEditor/CKEditor/CKEditor%203.5.3/ckeditor_3.5.3.zip"
 libraries[colorbox][type] = "libraries"
 libraries[colorbox][download][type] = "file"
-libraries[colorbox][download][url] = "http://colorpowered.com/colorbox/latest"
+libraries[colorbox][download][url] = "http://jacklmoore.com/colorbox/colorbox.zip"
 libraries[jquery.cycle][type] = "libraries"
 libraries[jquery.cycle][download][type] = "file"
 libraries[jquery.cycle][download][url] = "http://malsup.com/jquery/cycle/release/jquery.cycle.zip?v2.99"
