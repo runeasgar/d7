@@ -57,7 +57,7 @@ dependencies[] = captcha
 dependencies[] = image_captcha
 dependencies[] = addtoany
 dependencies[] = pathologic
-;dependencies[] = linkit
+dependencies[] = linkit
 ;dependencies[] = linkit_node
 dependencies[] = imce_mkdir
 dependencies[] = menu_block
@@ -73,6 +73,8 @@ dependencies[] = views_slideshow_cycle
 ;dependencies[] = memcache
 ;dependencies[] = memcache_admin
 ;dependencies[] = varnish
+dependencies[] = globalredirect
+dependencies[] = module_filter
 
 ; CORE MODULES I DON'T WANT
 ;dependencies[] = toolbar
