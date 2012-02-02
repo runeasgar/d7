@@ -37,7 +37,7 @@ projects[webform][subdir] = contrib
 projects[demo][subdir] = contrib
 ;projects[ds][version] = 1.3
 projects[ds][subdir] = contrib
-projects[google_fonts][subdir] = contrib
+;projects[google_fonts][subdir] = contrib
 projects[entity][subdir] = contrib
 projects[colorbox][subdir] = contrib
 projects[field_group][subdir] = contrib
@@ -51,6 +51,7 @@ projects[views_bulk_operations][subdir] = contrib
 projects[auto_nodetitle][subdir] = contrib
 projects[shadowbox][subdir] = contrib
 projects[nodequeue][subdir] = contrib
+projects[fontyourface][subdir] = contrib
 
 ; CACHING
 projects[apc][subdir] = contrib
