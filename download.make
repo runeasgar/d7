@@ -56,6 +56,7 @@ projects[flag][subdir] = contrib
 projects[views_slideshow][subdir] = contrib
 projects[module_filter][subdir] = contrib
 projects[globalredirect][subdir] = contrib
+projects[google_analytics][subdir] = contrib
 
 ; CACHING
 projects[apc][subdir] = contrib
