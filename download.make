@@ -119,7 +119,7 @@ libraries[jquery.cycle][download][url] = "http://malsup.com/jquery/cycle/release
 ; MY INSTALL PROFILE
 projects[d7][type] = profile
 projects[d7][download][type] = git
-projects[d7][download][url] = "git://github.com/runeasgar/d7.git"
+projects[d7][download][url] = "http://github.com/runeasgar/d7.git"
 
 ; DISABLED
 ;projects[imce][subdir] = contrib
