@@ -33,7 +33,6 @@ projects[google_analytics][subdir] = contrib
 projects[invite][subdir] = contrib
 projects[libraries][subdir] = contrib
 projects[link][subdir] = contrib
-projects[linkit][subdir] = contrib
 projects[location][subdir] = contrib
 projects[media][subdir] = contrib
 projects[menu_block][subdir] = contrib
@@ -61,6 +60,30 @@ projects[views_slideshow][subdir] = contrib
 projects[votingapi][subdir] = contrib
 projects[webform][subdir] = contrib
 projects[wysiwyg][subdir] = contrib
+
+; TRY THESE
+;better exposed filters
+;globalredirect
+;privatemsg
+;filter_perms
+;module_filter
+;quicktabs
+;quicktabs styles
+;superfish
+;views accordian
+;field permissions
+;notify
+;mobile tools
+;better formats
+;node export
+;node import
+;node clone
+;draggable views
+;menu attributes
+;content access
+
+; EVAN SUPPLIED ALTERNATIVE TO THIS - WHAT WAS IT?
+projects[linkit][subdir] = contrib
 
 ; CACHING
 projects[apc][subdir] = contrib
