@@ -4,7 +4,7 @@ core = 7.x
 projects[drupal][type] = core
 projects[drupal][version] = 7
 
-; Contrib Modules
+; CONTRIBUTED MODULES
 projects[addtoany][subdir] = contrib
 projects[admin][subdir] = contrib
 projects[admin_menu][subdir] = contrib
