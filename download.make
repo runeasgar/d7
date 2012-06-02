@@ -80,13 +80,7 @@ projects[formblock][subdir] = contrib
 projects[eva][version] = 1.1
 projects[eva][subdir] = contrib
 
-; Old, disabled
-;projects[imce][subdir] = contrib
-;projects[imce_mkdir][subdir] = contrib
-;projects[imce_wysiwyg][subdir] = contrib
-;projects[job_scheduler][version] = 2.0-alpha2
-;projects[job_scheduler][subdir] = contrib
-
+; LIBRARIES
 libraries[jquery][download][type] = "file"
 libraries[jquery][download][url] = "https://ajax.googleapis.com/ajax/libs/jquery/1.5.2/jquery.min.js"
 libraries[ckeditor][type] = "libraries"
@@ -103,3 +97,10 @@ libraries[jquery.cycle][download][url] = "http://malsup.com/jquery/cycle/release
 projects[d7][type] = profile
 projects[d7][download][type] = git
 projects[d7][download][url] = "git://github.com/runeasgar/d7.git"
+
+; DISABLED
+;projects[imce][subdir] = contrib
+;projects[imce_mkdir][subdir] = contrib
+;projects[imce_wysiwyg][subdir] = contrib
+;projects[job_scheduler][version] = 2.0-alpha2
+;projects[job_scheduler][subdir] = contrib
