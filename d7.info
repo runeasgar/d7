@@ -51,7 +51,6 @@ dependencies[] = module_filter
 dependencies[] = node_reference
 dependencies[] = pathauto
 dependencies[] = pathologic
-dependencies[] = recaptcha
 dependencies[] = references
 dependencies[] = rules
 dependencies[] = rules_admin
