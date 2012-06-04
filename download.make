@@ -10,6 +10,7 @@ projects[admin][subdir] = contrib
 projects[admin_menu][subdir] = contrib
 projects[auto_nodetitle][subdir] = contrib
 projects[backup_migrate][subdir] = contrib
+projects[captcha][subdir] = contrib
 projects[ctools][subdir] = contrib
 projects[context][subdir] = contrib
 projects[calendar][subdir] = contrib
