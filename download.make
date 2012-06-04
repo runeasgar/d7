@@ -82,6 +82,8 @@ projects[wysiwyg][subdir] = contrib
 ;draggable views
 ;menu attributes
 ;content access
+;logintoboggan
+;taxonomy menu
 
 ; EVAN SUPPLIED ALTERNATIVE TO THIS - WHAT WAS IT?
 projects[linkit][subdir] = contrib
