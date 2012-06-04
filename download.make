@@ -57,6 +57,7 @@ projects[taxonomy_menu][subdir] = contrib
 projects[token][subdir] = contrib
 projects[views][subdir] = contrib
 projects[views_bulk_operations][subdir] = contrib
+projects[views_php][subdir] = contrib
 projects[views_slideshow][subdir] = contrib
 projects[votingapi][subdir] = contrib
 projects[webform][subdir] = contrib
