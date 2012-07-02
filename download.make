@@ -33,6 +33,7 @@ projects[fontyourface][subdir] = contrib
 projects[globalredirect][subdir] = contrib
 projects[google_analytics][subdir] = contrib
 projects[invite][subdir] = contrib
+projects[job_scheduler][subdir] = contrib
 projects[libraries][subdir] = contrib
 projects[link][subdir] = contrib
 projects[location][subdir] = contrib
