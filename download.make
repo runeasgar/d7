@@ -59,6 +59,7 @@ projects[strongarm][subdir] = contrib
 projects[taxonomy_menu][subdir] = contrib
 projects[token][subdir] = contrib
 projects[views][subdir] = contrib
+projects[views][views_accordion] = contrib
 projects[views_bulk_operations][subdir] = contrib
 projects[views_data_export][subdir] = contrib
 projects[views_php][subdir] = contrib
@@ -72,12 +73,12 @@ projects[wysiwyg][subdir] = contrib
 ;globalredirect
 ;privatemsg
 ;filter_perms
-;module_filter
 ;quicktabs
 ;quicktabs styles
 ;superfish
-;views accordian
 ;field permissions
+;field access
+;content access
 ;notify
 ;mobile tools
 ;better formats
@@ -86,9 +87,6 @@ projects[wysiwyg][subdir] = contrib
 ;node clone
 ;draggable views
 ;menu attributes
-;content access
-;logintoboggan
-;taxonomy menu
 
 ; EVAN SUPPLIED ALTERNATIVE TO THIS - WHAT WAS IT?
 projects[linkit][subdir] = contrib
