@@ -87,6 +87,7 @@ projects[wysiwyg][subdir] = contrib
 ;node clone
 ;draggable views
 ;menu attributes
+;workbench
 
 ; EVAN SUPPLIED ALTERNATIVE TO THIS - WHAT WAS IT?
 projects[linkit][subdir] = contrib
