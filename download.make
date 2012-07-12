@@ -26,6 +26,7 @@ projects[email][subdir] = contrib
 projects[entity][subdir] = contrib
 projects[features][subdir] = contrib
 projects[feeds][subdir] = contrib
+projects[field_access][subdir] = contrib
 projects[field_collection][subdir] = contrib
 projects[field_group][subdir] = contrib
 projects[fivestar][subdir] = contrib
@@ -68,6 +69,7 @@ projects[views_php][subdir] = contrib
 projects[views_slideshow][subdir] = contrib
 projects[votingapi][subdir] = contrib
 projects[webform][subdir] = contrib
+projects[workbench][subdir] = contrib
 projects[wysiwyg][subdir] = contrib
 
 ; TRY THESE
@@ -79,15 +81,13 @@ projects[wysiwyg][subdir] = contrib
 ;quicktabs styles
 ;superfish
 ;field permissions
-;field access
 ;notify
 ;mobile tools
 ;better formats
 ;node import
 ;node clone
-;draggable views
+;ADD draggable views
 ;menu attributes
-;workbench
 
 ; EVAN SUPPLIED ALTERNATIVE TO THIS - WHAT WAS IT?
 projects[linkit][subdir] = contrib
