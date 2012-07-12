@@ -16,6 +16,7 @@ projects[context][subdir] = contrib
 projects[calendar][subdir] = contrib
 projects[colorbox][subdir] = contrib
 projects[computed_field][subdir] = contrib
+projects[content_access][subdir] = contrib
 projects[date][subdir] = contrib
 projects[demo][subdir] = contrib
 projects[devel][subdir] = contrib
@@ -42,6 +43,7 @@ projects[media][subdir] = contrib
 projects[menu_block][subdir] = contrib
 projects[module_filter][subdir] = contrib
 projects[nice_menus][subdir] = contrib
+projects[node_export][subdir] = contrib
 projects[nodereference_url][subdir] = contrib
 projects[nodequeue][subdir] = contrib
 projects[og][subdir] = contrib
@@ -78,11 +80,9 @@ projects[wysiwyg][subdir] = contrib
 ;superfish
 ;field permissions
 ;field access
-;content access
 ;notify
 ;mobile tools
 ;better formats
-;node export
 ;node import
 ;node clone
 ;draggable views
