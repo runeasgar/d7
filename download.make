@@ -88,6 +88,7 @@ projects[wysiwyg][subdir] = contrib
 ;node clone
 ;ADD draggable views
 ;menu attributes
+;conditional fields
 
 ; EVAN SUPPLIED ALTERNATIVE TO THIS - WHAT WAS IT?
 projects[linkit][subdir] = contrib
