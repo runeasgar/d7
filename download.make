@@ -29,6 +29,7 @@ projects[feeds][subdir] = contrib
 projects[field_collection][subdir] = contrib
 projects[field_group][subdir] = contrib
 projects[field_permissions][subdir] = contrib
+projects[filter_perms][subdir] = contrib
 projects[fivestar][subdir] = contrib
 projects[flag][subdir] = contrib
 projects[fontyourface][subdir] = contrib
@@ -76,11 +77,9 @@ projects[wysiwyg][subdir] = contrib
 ;better exposed filters
 ;globalredirect
 ;privatemsg
-;filter_perms
 ;quicktabs
 ;quicktabs styles
 ;superfish
-;field permissions
 ;notify
 ;mobile tools
 ;better formats
