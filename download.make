@@ -24,6 +24,7 @@ projects[diff][subdir] = contrib
 projects[ds][subdir] = contrib
 projects[email][subdir] = contrib
 projects[entity][subdir] = contrib
+projects[eva][subdir] = contrib
 projects[features][subdir] = contrib
 projects[feeds][subdir] = contrib
 projects[field_collection][subdir] = contrib
@@ -95,20 +96,15 @@ projects[linkit][subdir] = contrib
 ; CACHING
 projects[apc][subdir] = contrib
 projects[memcache][subdir] = contrib
-projects[varnish][version] = 1.x-dev
 projects[varnish][subdir] = contrib
 
 ; E-COMMERCE
 projects[addressfield][subdir] = contrib
 projects[commerce][subdir] = contrib
-projects[commerce_paypal][version] = 1.x-dev
-projects[commerce_paypal][subdir] = contrib
 
 ; NO RECOMMENDED RELEASE
 projects[formblock][version] = 1.x-dev
 projects[formblock][subdir] = contrib
-projects[eva][version] = 1.1
-projects[eva][subdir] = contrib
 
 ; LIBRARIES
 libraries[jquery][download][type] = "file"
