@@ -17,6 +17,7 @@ projects[calendar][subdir] = contrib
 projects[colorbox][subdir] = contrib
 projects[computed_field][subdir] = contrib
 projects[content_access][subdir] = contrib
+projects[ctools][subdir] = contrib
 projects[date][subdir] = contrib
 projects[demo][subdir] = contrib
 projects[devel][subdir] = contrib
@@ -44,12 +45,14 @@ projects[location][subdir] = contrib
 projects[logintoboggan][subdir] = contrib
 projects[media][subdir] = contrib
 projects[menu_block][subdir] = contrib
+projects[metatag][subdir] = contrib
 projects[module_filter][subdir] = contrib
 projects[nice_menus][subdir] = contrib
 projects[node_export][subdir] = contrib
 projects[nodereference_url][subdir] = contrib
 projects[nodequeue][subdir] = contrib
 projects[og][subdir] = contrib
+projects[page_title][subdir] = contrib
 projects[pathauto][subdir] = contrib
 projects[pathologic][subdir] = contrib
 projects[print][subdir] = contrib
@@ -89,6 +92,9 @@ projects[wysiwyg][subdir] = contrib
 ;ADD draggable views
 ;menu attributes
 ;conditional fields
+;simple news
+;menu breadcrumb
+;jcarousel
 
 ; EVAN SUPPLIED ALTERNATIVE TO THIS - WHAT WAS IT?
 projects[linkit][subdir] = contrib
