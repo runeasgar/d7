@@ -95,6 +95,7 @@ projects[wysiwyg][subdir] = contrib
 ;simple news
 ;menu breadcrumb
 ;jcarousel
+;infinite scroll
 
 ; EVAN SUPPLIED ALTERNATIVE TO THIS - WHAT WAS IT?
 projects[linkit][subdir] = contrib
