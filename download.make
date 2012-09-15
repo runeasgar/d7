@@ -77,6 +77,14 @@ projects[webform][subdir] = contrib
 projects[workbench][subdir] = contrib
 projects[wysiwyg][subdir] = contrib
 
+; alphabetize
+projects[omega][subdir] = contrib
+projects[omega_tools][subdir] = contrib
+projects[delta][subdir] = contrib
+projects[page_theme][subdir] = contrib
+; watchdog views
+; force password change
+
 ; TRY THESE
 ;better exposed filters
 ;globalredirect
