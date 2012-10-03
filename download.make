@@ -104,6 +104,7 @@ projects[page_theme][subdir] = contrib
 ;menu breadcrumb
 ;jcarousel
 ;infinite scroll
+;node connect (create nodes by ref)
 
 ; EVAN SUPPLIED ALTERNATIVE TO THIS - WHAT WAS IT?
 projects[linkit][subdir] = contrib
