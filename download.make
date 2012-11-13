@@ -1,7 +1,7 @@
-core = 7.x
+core = 7.16
 api = 2
 projects[drupal][type] = core
-projects[drupal][version] = 7.14
+projects[drupal][version] = 7.16
 
 ; CONTRIBUTED MODULES
 projects[addtoany][subdir] = contrib
