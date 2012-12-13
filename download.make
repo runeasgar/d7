@@ -106,6 +106,7 @@ projects[page_theme][subdir] = contrib
 ;node connect (create nodes by ref)
 ;protect_node
 ;service links
+;sweaver
 
 ; EVAN SUPPLIED ALTERNATIVE TO THIS - WHAT WAS IT?
 projects[linkit][subdir] = contrib
