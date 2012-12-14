@@ -107,6 +107,7 @@ projects[page_theme][subdir] = contrib
 ;protect_node
 ;service links
 ;sweaver
+;eck (entity construction kit)
 
 ; EVAN SUPPLIED ALTERNATIVE TO THIS - WHAT WAS IT?
 projects[linkit][subdir] = contrib
