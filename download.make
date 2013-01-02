@@ -108,6 +108,7 @@ projects[page_theme][subdir] = contrib
 ;service links
 ;sweaver
 ;eck (entity construction kit)
+;commerce_kickstart
 
 ; EVAN SUPPLIED ALTERNATIVE TO THIS - WHAT WAS IT?
 projects[linkit][subdir] = contrib
