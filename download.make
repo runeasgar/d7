@@ -109,6 +109,7 @@ projects[page_theme][subdir] = contrib
 ;sweaver
 ;eck (entity construction kit)
 ;commerce_kickstart
+;entityforms (alternative to webform)
 
 ; EVAN SUPPLIED ALTERNATIVE TO THIS - WHAT WAS IT?
 projects[linkit][subdir] = contrib
