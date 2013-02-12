@@ -111,6 +111,8 @@ projects[page_theme][subdir] = contrib
 ;commerce_kickstart
 ;entityforms (alternative to webform)
 ;tvi
+;permissions grid
+;edit limit
 
 ; EVAN SUPPLIED ALTERNATIVE TO THIS - WHAT WAS IT?
 projects[linkit][subdir] = contrib
