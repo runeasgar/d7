@@ -113,6 +113,7 @@ projects[page_theme][subdir] = contrib
 ;tvi
 ;permissions grid
 ;edit limit
+;services
 
 ; EVAN SUPPLIED ALTERNATIVE TO THIS - WHAT WAS IT?
 projects[linkit][subdir] = contrib
