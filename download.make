@@ -1,7 +1,7 @@
-core = 7.16
+core = 7.20
 api = 2
 projects[drupal][type] = core
-projects[drupal][version] = 7.16
+projects[drupal][version] = 7.20
 
 ; CONTRIBUTED MODULES
 projects[addtoany][subdir] = contrib
@@ -18,6 +18,7 @@ projects[computed_field][subdir] = contrib
 projects[content_access][subdir] = contrib
 projects[ctools][subdir] = contrib
 projects[date][subdir] = contrib
+projects[delta][subdir] = contrib
 projects[demo][subdir] = contrib
 projects[devel][subdir] = contrib
 projects[diff][subdir] = contrib
@@ -51,6 +52,9 @@ projects[node_export][subdir] = contrib
 projects[nodereference_url][subdir] = contrib
 projects[nodequeue][subdir] = contrib
 projects[og][subdir] = contrib
+projects[omega][subdir] = contrib
+projects[omega_tools][subdir] = contrib
+projects[page_theme][subdir] = contrib
 projects[page_title][subdir] = contrib
 projects[pathauto][subdir] = contrib
 projects[pathologic][subdir] = contrib
@@ -75,45 +79,6 @@ projects[votingapi][subdir] = contrib
 projects[webform][subdir] = contrib
 projects[workbench][subdir] = contrib
 projects[wysiwyg][subdir] = contrib
-
-; alphabetize
-projects[omega][subdir] = contrib
-projects[omega_tools][subdir] = contrib
-projects[delta][subdir] = contrib
-projects[page_theme][subdir] = contrib
-; watchdog views
-; force password change
-
-; TRY THESE
-;better exposed filters
-;globalredirect
-;privatemsg
-;quicktabs
-;quicktabs styles
-;superfish
-;notify
-;mobile tools
-;better formats
-;node import
-;node clone
-;ADD draggable views
-;menu attributes
-;conditional fields
-;simple news
-;menu breadcrumb
-;jcarousel
-;infinite scroll
-;node connect (create nodes by ref)
-;protect_node
-;service links
-;sweaver
-;eck (entity construction kit)
-;commerce_kickstart
-;entityforms (alternative to webform)
-;tvi
-;permissions grid
-;edit limit
-;services
 
 ; EVAN SUPPLIED ALTERNATIVE TO THIS - WHAT WAS IT?
 projects[linkit][subdir] = contrib
@@ -148,6 +113,39 @@ libraries[jquery.cycle][download][url] = "http://malsup.com/jquery/cycle/release
 projects[d7][type] = profile
 projects[d7][download][type] = git
 projects[d7][download][url] = "http://github.com/runeasgar/d7.git"
+
+; TRY THESE
+;better exposed filters
+;globalredirect
+;privatemsg
+;quicktabs
+;quicktabs styles
+;superfish
+;notify
+;mobile tools
+;better formats
+;node import
+;node clone
+;ADD draggable views
+;menu attributes
+;conditional fields
+;simple news
+;menu breadcrumb
+;jcarousel
+;infinite scroll
+;node connect (create nodes by ref)
+;protect_node
+;service links
+;sweaver
+;eck (entity construction kit)
+;commerce_kickstart
+;entityforms (alternative to webform)
+;tvi
+;permissions grid
+;edit limit
+;services
+;watchdog views
+;force password change
 
 ; DISABLED
 ;projects[imce][subdir] = contrib
