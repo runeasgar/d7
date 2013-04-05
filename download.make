@@ -114,39 +114,6 @@ projects[d7][type] = profile
 projects[d7][download][type] = git
 projects[d7][download][url] = "http://github.com/runeasgar/d7.git"
 
-; TRY THESE
-;better exposed filters
-;globalredirect
-;privatemsg
-;quicktabs
-;quicktabs styles
-;superfish
-;notify
-;mobile tools
-;better formats
-;node import
-;node clone
-;ADD draggable views
-;menu attributes
-;conditional fields
-;simple news
-;menu breadcrumb
-;jcarousel
-;infinite scroll
-;node connect (create nodes by ref)
-;protect_node
-;service links
-;sweaver
-;eck (entity construction kit)
-;commerce_kickstart
-;entityforms (alternative to webform)
-;tvi
-;permissions grid
-;edit limit
-;services
-;watchdog views
-;force password change
-
 ; DISABLED
 ;projects[imce][subdir] = contrib
 ;projects[imce_mkdir][subdir] = contrib
