@@ -24,7 +24,6 @@ dependencies[] = file
 dependencies[] = rdf
 
 ; MY SET OF MODULES
-dependencies[] = admin
 dependencies[] = admin_menu
 dependencies[] = colorbox
 dependencies[] = context
@@ -38,12 +37,13 @@ dependencies[] = demo
 dependencies[] = ds
 dependencies[] = devel
 dependencies[] = entity
-dependencies[] = flag
-dependencies[] = features
+dependencies[] = eva
 dependencies[] = field_group
+dependencies[] = filter_perms
 dependencies[] = globalredirect
 dependencies[] = email
 dependencies[] = link
+dependencies[] = media
 dependencies[] = module_filter
 dependencies[] = node_reference
 dependencies[] = pathauto
@@ -60,22 +60,6 @@ dependencies[] = wysiwyg
 
 files[] = d7.profile
 
-; OPTIONAL CACHE MODULES
-;dependencies[] = apc
-;dependencies[] = memcache
-;dependencies[] = memcache_admin
-;dependencies[] = varnish
-
 ; CORE MODULES I DON'T WANT
 ;dependencies[] = toolbar
 ;dependencies[] = overlay
-
-; DISABLED
-;dependencies[] = imce
-;dependencies[] = imce_wysiwyg
-;dependencies[] = imce_mkdir
-;dependencies[] = views_slideshow
-;dependencies[] = views_slideshow_cycle
-;dependencies[] = menu_block
-;dependencies[] = devel_generate
-;dependencies[] = computed_field
